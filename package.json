@@ -1,0 +1,16 @@
+{
+  "name": "leaflet.pointinpolygon",
+  "version": "1.0.0",
+  "description": "Point-in-polygon detection for Leaflet.js maps",
+  "main": "wise-leaflet-pip.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamtLICOR/Leaflet.PointInPolygon.git#master"
+  },
+  "author": "Brian S Hayes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamtLICOR/Leaflet.PointInPolygon/issues"
+  },
+  "homepage": "https://github.com/adamtLICOR/Leaflet.PointInPolygon/tree/master#readme"
+}
